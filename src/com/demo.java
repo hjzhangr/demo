@@ -5,4 +5,9 @@ public void main(String[] args) {
 	echo $name
 	
 	
+	age=23
+	echo $age
+	
+	
+	
 }
